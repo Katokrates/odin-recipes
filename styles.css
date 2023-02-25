@@ -1,0 +1,23 @@
+.Header{
+    color: yellow;
+    font-size: 60px;
+    font-weight: bold;
+    background-color: gray;
+    text-align: center;
+}
+
+.Links{
+    background-color: gray;
+    color: red;
+    font-size: 30px;   
+}
+
+.Link{
+    color: red;
+}
+
+.Recipe-Header{
+    color: green;
+    font-weight: bold;
+    font-size: 60px;
+}
